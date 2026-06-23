@@ -27,19 +27,7 @@ Bookmarks-Manager/
 
 This project was created to practice and improve HTML skills by building a simple web application that demonstrates webpage structure, forms, links, and layout organization.
 
-## 📸 Preview
 
-Add a screenshot of your project here:
-
-```
-assets/screenshot.png
-```
-
-or
-
-```html
-<img src="screenshot.png" alt="Bookmarks Manager Screenshot">
-```
 
 ## 🚀 Getting Started
 
